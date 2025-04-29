@@ -69,7 +69,7 @@ The dataset used in this project is the **Telco Customer Churn Dataset**, which 
 ## How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Telco-Churn-Prediction.git
+   git clone https://github.com/Kasprix/Telco-Churn-Prediction
    cd Telco-Churn-Prediction
    ```
 
